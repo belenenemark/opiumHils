@@ -3,13 +3,20 @@ html, body {
   }
 
 .previa{
-    width: 80px;
-    border-radius: 100%;
-    color: aliceblue; !important;
+    margin-top: 10%;
+    width: 450px;
+    height: 200px;
+    border: 10px solid #fff;
+    
+    
+}
+iframe{
+    margin-left:15%;
 }
 
 .main-cont{
     background-image: url(../images/backimg2.jpg);
+    
     background-size: cover;
     position: absolute;
     bottom: 0;
@@ -26,7 +33,7 @@ html, body {
     
 } 
 a{
-    padding-left: 10%;
+    
     color: aliceblue; !important;
     
 }
